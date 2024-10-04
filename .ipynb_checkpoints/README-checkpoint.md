@@ -3,7 +3,12 @@
 ```
 matplotlib
 numpy
-pygeodesic
+```
+
+And for the geodesic:
+
+```
+pip install pygeodesic
 ```
 
 And for interactive vis:
